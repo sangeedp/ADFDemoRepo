@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "RepoDataFactory"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
